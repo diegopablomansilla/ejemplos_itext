@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.cendra.itext.inaction.iTextInAction.part1.chapter02.StarSeparator"/>
+<fullyQualifiedTypeName name="org.cendra.itext.inaction.iTextInAction.part1.chapter04.PdfCalendar"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.model.person.Person"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.model.ou.Ou"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.model.document.Document"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Element"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Rectangle"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="java.security.Identity"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Font"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfAStamper"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.log.Logger"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.ICC_Profile"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.model.md.json.AdminUnit"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.model.md.json.PersonIdentity"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.model.md.json.Person"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.model.md.json.User"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.util.SO"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.business.PdfA3aBuilder"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.model.md.PersonIdentity"/>
+<fullyQualifiedTypeName name="org.cendra.eadministration.pdf.util.GlobalProperties"/>
+</qualifiedTypeNameHistroy>

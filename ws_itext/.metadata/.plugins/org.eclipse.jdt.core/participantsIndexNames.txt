@@ -1,0 +1,7 @@
+INDEX VERSION 1.127
+/home/java/Dropbox/dev/ws_itext/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3159168925.index
+/iTextInAction/src/main/java
+/home/java/Dropbox/dev/ws_itext/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1840488866.index
+/book-master-475d4141eafcdd8e321049867e64bdf937dc6b21/src
+/home/java/Dropbox/dev/ws_itext/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1898561528.index
+/book-master-475d4141eafcdd8e321049867e64bdf937dc6b21/src

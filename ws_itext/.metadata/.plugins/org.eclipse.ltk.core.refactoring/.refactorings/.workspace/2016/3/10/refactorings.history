@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;pj_itext_in_action2&apos;" deleteContents="false" description="Delete resource &apos;pj_itext_in_action2&apos;" element1="/pj_itext_in_action2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1457047114614"/>
+</session>

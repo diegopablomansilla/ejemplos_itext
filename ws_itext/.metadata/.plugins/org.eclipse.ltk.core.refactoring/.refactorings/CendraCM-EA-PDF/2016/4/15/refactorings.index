@@ -1,0 +1,16 @@
+1459782158018	Rename type 'Properties'
+1459782384218	Rename type 'PropertiesX'
+1459782392781	Rename type 'GeneralProperties'
+1459782461878	Move compilation unit
+1459783509188	Rename type 'AdminUnit'
+1459783512820	Rename type 'Attached'
+1459783516232	Rename type 'EDoc'
+1459783520477	Rename type 'EDog'
+1459783525236	Rename type 'Person'
+1459783530032	Rename type 'User'
+1459783864485	Rename type 'PersonIdentity'
+1459867660765	Copy compilation unit
+1459869148560	Copy compilation unit
+1459869173977	Rename local variable 'eDog'
+1459869221545	Rename local variable 'edog'
+1459871176054	Copy compilation unit

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ImportingPages2.java&apos; to &apos;CendraCM-EA-PDF/src/main/java/org.cendra.eadministration.pdf.examples&apos;&#x0A;- Original project: &apos;book-master-475d4141eafcdd8e321049867e64bdf937dc6b21&apos;&#x0A;- Destination element: &apos;CendraCM-EA-PDF/src/main/java/org.cendra.eadministration.pdf.examples&apos;&#x0A;- Original element: &apos;part2.chapter06.ImportingPages2.java&apos;" description="Copy compilation unit" destination="=CendraCM-EA-PDF/src\/main\/java&lt;org.cendra.eadministration.pdf.examples" element1="/src&lt;part2.chapter06{ImportingPages2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1458504769862" units="1" version="1.0"/>
+</session>
